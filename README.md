@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fa8e
-- 👀 I’m interested in creating a Youtube clone and a good video editor for now.
-- 🌱 I’m currently learning Android Studio.
-- 💞️ I’m looking for a person good at artistic stuff.
+- 👀 I’m interested in the stuff that is fun.
+- 🌱 I’m currently learning AWS
+- 💞️ I’m looking for someone who can write about my accomplishments.
 - 📫 How to reach me ... I'll reach you.
 
 <!---
